@@ -1,0 +1,104 @@
+{
+  "slug": "heartclear",
+  "box": 28,
+  "date": "2026-10-08",
+  "title": "HeartClear",
+  "question": "How does the heart work?",
+  "hook": "Your heart is two pumps in one, beating about 100,000 times a day without a single instruction from you. Take a 3D heart apart, watch its valves slam shut on every lub-dub, and follow the spark that starts each beat.",
+  "thumbText": "HOW THE HEART WORKS",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "heart",
+    "cardiac cycle",
+    "blood pressure",
+    "ECG",
+    "circulation",
+    "human body",
+    "biology",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Two pumps in one",
+      "text": "The heart has four chambers. The right atrium and ventricle send oxygen-poor blood to the lungs; the left atrium and ventricle send oxygen-rich blood to the whole body. Four one-way valves keep it moving in the right direction, and the left ventricle's wall is about three times thicker because it pumps at higher pressure."
+    },
+    {
+      "title": "Fill, squeeze, lub-dub",
+      "text": "In diastole the ventricles relax and fill; in systole they squeeze out about 70 mL each beat. The 'lub' is the inlet valves slamming shut as the squeeze starts, the 'dub' the outlet valves shutting as it ends. At 70 beats a minute that makes about 5 litres a minute."
+    },
+    {
+      "title": "A built-in spark",
+      "text": "Each beat starts in the SA node, the heart's natural pacemaker in the right atrium. The signal sweeps over the atria, waits about a tenth of a second in the AV node, then races through the bundle of His and Purkinje fibres so the ventricles squeeze from the bottom up. An ECG records this wave as P, QRS and T."
+    },
+    {
+      "title": "Two circuits, one minute",
+      "text": "Blood goes from the right heart through the lungs, where it fills with oxygen to about 98%, back to the left heart and out to the body, returning about 75% full at rest. An adult has about 5 litres of blood, so one lap takes about a minute."
+    },
+    {
+      "title": "120 over 80",
+      "text": "Blood pressure is the peak of each beat (systolic) over the low point between beats (diastolic). A cuff finds them by listening for the tapping of blood forced past a squeezed artery. Stretchy arteries smooth each surge; by the capillaries the pressure is about 35 mmHg and barely pulses."
+    },
+    {
+      "title": "When things go wrong",
+      "text": "Plaque can narrow a coronary artery, and flow through a tube falls with the fourth power of its radius. A clot on a plaque causes a heart attack, an emergency. CPR at 100 to 120 pushes a minute, 5 to 6 cm deep, keeps some blood moving until help arrives. For your own heart, talk to a doctor."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Atrium and ventricle",
+      "def": "The heart's upper collecting chambers (atria) and lower pumping chambers (ventricles)."
+    },
+    {
+      "term": "Heart valve",
+      "def": "A flap of tissue that lets blood flow only one way. The heart has four: tricuspid, pulmonary, mitral and aortic."
+    },
+    {
+      "term": "Cardiac cycle",
+      "def": "One heartbeat: diastole, when the ventricles relax and fill, then systole, when they contract and eject blood."
+    },
+    {
+      "term": "Stroke volume",
+      "def": "The blood one ventricle pumps per beat, about 70 mL at rest."
+    },
+    {
+      "term": "Cardiac output",
+      "def": "Heart rate times stroke volume: about 5 litres a minute at rest, 15 to 20 in hard exercise."
+    },
+    {
+      "term": "Ejection fraction",
+      "def": "The share of the blood in a full ventricle that one beat pumps out, normally about 55 to 70%."
+    },
+    {
+      "term": "SA node",
+      "def": "The heart's natural pacemaker, which fires each beat 60 to 100 times a minute at rest."
+    },
+    {
+      "term": "ECG",
+      "def": "Electrocardiogram: a recording of the heart's electrical waves, labelled P, QRS and T."
+    },
+    {
+      "term": "Blood pressure",
+      "def": "The push of blood on artery walls, given as systolic over diastolic in mmHg, around 120/80 in a healthy adult."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "heartclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
